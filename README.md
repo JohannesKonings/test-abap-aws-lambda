@@ -1,15 +1,5 @@
-# cloudflare-abap-template
-Cloudflare worker ABAP template
+# test-abap-aws-lambda
 
-## Running Template
-`npm install`
+# based on
 
-`wrangler preview`
-
-## Prerequsites
-`npm i @cloudflare/wrangler -g`
-
-Rust/Cargo installed
-
-## Usage
-`wrangler generate projectname https://github.com/open-abap/cloudflare-abap-template`
+https://github.com/open-abap/cloudflare-abap-template
