@@ -7,7 +7,7 @@ module.exports = {
   devtool: 'nosources-source-map',
   entry: './index.js',
   output: {
-    path: path.resolve(__dirname, "build"),
+    path: path.resolve(__dirname, "dist"),
     filename: 'index.js',
     libraryTarget: 'commonjs'
   },
